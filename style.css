@@ -4,5 +4,10 @@ body{
     color:#000000
 }
 
-.carnaval
+.carnaval{
+
+display:flex;
+font-size: medium;
+
+}
 
